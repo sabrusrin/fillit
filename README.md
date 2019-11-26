@@ -1,6 +1,7 @@
 # fillit
 42 Project - Fillit
 #### my 42 nickname - chermist
+> Code written in norminette code style(github.com/sabrusrin/norme)
 
 Use make to build project.  
 
